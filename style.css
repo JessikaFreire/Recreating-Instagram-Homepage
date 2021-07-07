@@ -142,14 +142,6 @@ body {
 	background-image: url('./img/googleplay.png');
 }
 
-.footer-option{
-	display: flex;
-	margin: 800px 500px 0;
-	justify-content: center;
-	align-items: center;
-	padding-right: 200px;
-}
-
 /* Media Queries*/
 
 @media (max-width:  1024px){
